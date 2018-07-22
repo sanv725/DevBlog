@@ -1,0 +1,4 @@
+baseURL = "https://blog.sanjudev.com/"
+languageCode = "en-us"
+title = "Sanju's Development Blog"
+theme = "kube"
