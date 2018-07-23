@@ -13,6 +13,8 @@ canonifyurls = true # Enable to turn relative URLs into absolute.
 
 #disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 
+enabledRobotsTXT = true
+
 [params] # theme parameters
     author = "Sanju Varghese" # Author's name.
     info = "iOS Mobile Developer" # Author's job title or info.
