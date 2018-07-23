@@ -21,7 +21,6 @@ canonifyurls = true # Enable to turn relative URLs into absolute.
     avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
 
     #footercontent = "Enter a text here." # Add footer content
-
     # Whether you want to hide copyright and credits in the footer.
     hideCredits = false
     hideCopyright = false
