@@ -16,7 +16,7 @@ canonifyurls = true # Enable to turn relative URLs into absolute.
 [params] # theme parameters
     author = "Sanju Varghese" # Author's name.
     info = "iOS Mobile Developer" # Author's job title or info.
-    description = "John Doe's personal website" # Site description.
+    description = "Sanju's personal website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
     avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
 
