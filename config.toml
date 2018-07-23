@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://sanjudev.com"
 title = "Sanju's Dev Journey"
 theme = "coder"
 languagecode = "en" # The site’s language code used to generate RSS.
